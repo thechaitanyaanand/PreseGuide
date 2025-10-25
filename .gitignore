@@ -1,0 +1,85 @@
+# Environment variables
+# ----------------------------------------------------------------
+# Never commit your .env file or local settings!
+.env
+local_settings.py
+
+
+# Python virtual environment
+# ----------------------------------------------------------------
+# Ignore the virtual environment directory
+.venv/
+venv/
+env/
+
+
+# Django database
+# ----------------------------------------------------------------
+# Ignore the default development database
+db.sqlite3
+db.sqlite3-journal
+
+
+# Django media files
+# ----------------------------------------------------------------
+# Ignore user-uploaded files
+media/
+
+
+# Django static files
+# ----------------------------------------------------------------
+# Ignore the directory where collectstatic gathers files for production
+staticfiles/
+static_root/
+
+
+# Python cache and compiled files
+# ----------------------------------------------------------------
+__pycache__/
+*.pyc
+*.py[cod]
+*.so
+
+
+# IDE & editor configuration
+# ----------------------------------------------------------------
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+
+# Log and temporary files
+# ----------------------------------------------------------------
+*.log
+*.tmp
+*.bak
+
+
+# Translation files
+# ----------------------------------------------------------------
+# Ignore compiled translation files
+*.mo
+*.pot
+
+
+# Testing & coverage
+# ----------------------------------------------------------------
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+
+# Distribution / packaging
+# ----------------------------------------------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
