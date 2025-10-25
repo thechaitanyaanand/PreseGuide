@@ -572,7 +572,7 @@ Get current authenticated user.
 
 ## 🗺️ Development Roadmap
 
-### **✅ Phase 1: Foundation & Authentication** (Weeks 1-2) - CURRENT
+### **✅ Phase 1: Foundation & Authentication** (Hour 1-2) - CURRENT
 - [x] Django project setup with REST Framework
 - [x] Custom User model with UUID and gamification
 - [x] Google OAuth integration
@@ -582,7 +582,7 @@ Get current authenticated user.
 - [x] NextAuth.js configuration (coming next)
 - [ ] Protected routes and layouts (coming next)
 
-### **🔄 Phase 2: Core Audio Analysis** (Weeks 3-5) - NEXT
+### **🔄 Phase 2: Core Audio Analysis** (Hour 3-5) - NEXT
 - [ ] Audio upload and validation
 - [ ] Gemini API integration for speech-to-text
 - [ ] Filler word detection algorithm
@@ -591,38 +591,38 @@ Get current authenticated user.
 - [ ] Feedback generation with AI
 - [ ] Recording management system
 
-### **📋 Phase 3: Document Context** (Weeks 6-7)
+### **📋 Phase 3: Document Context** (Hour 6-7)
 - [ ] PDF/PPTX upload and processing
 - [ ] PyMuPDF and python-pptx integration
 - [ ] Content extraction and structuring
 - [ ] Slide-by-slide guidance system
 - [ ] Content alignment analysis
 
-### **🎨 Phase 4: Advanced Features** (Weeks 8-10)
+### **🎨 Phase 4: Advanced Features** (Later if selected)
 - [ ] Q&A generator
 - [ ] Mind map visualizations with React Flow
 - [ ] Content coach questionnaire
 - [ ] Research resource finder
 
-### **🎮 Phase 5: Gamification** (Week 11)
+### **🎮 Phase 5: Gamification** (Later if selected)
 - [ ] Level progression system
 - [ ] Badge achievement system
 - [ ] Progress visualizations
 - [ ] Leaderboard (optional)
 
-### **👥 Phase 6: Team Collaboration** (Weeks 12-13)
+### **👥 Phase 6: Team Collaboration** (Later if selected)
 - [ ] Presentation spaces model
 - [ ] WebSocket consumers with Django Channels
 - [ ] Real-time presence tracking
 - [ ] Comment system with timestamps
 - [ ] Share link generation
 
-### **✨ Phase 7: Optional Features** (Weeks 14-15)
+### **✨ Phase 7: Optional Features** (Later if selected)
 - [ ] Body gesture suggestions
 - [ ] PPT modification recommendations
 - [ ] Mood analysis
 
-### **🚀 Phase 8: Deployment** (Week 16)
+### **🚀 Phase 8: Deployment** (Will do after whatevers ready at the end of the hackathon)
 - [ ] Render backend deployment
 - [ ] Vercel frontend deployment
 - [ ] Environment configuration
